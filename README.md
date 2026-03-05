@@ -1,16 +1,16 @@
-# Hi 👋 I'm Laxmi Meghana Moudhgalya Gade
+# Hey there! I'm Laxmi Meghana Moudhgalya Gade
 
-🚀 Generative AI Developer | LLM Applications | AI Automation  
-💡 Passionate about building intelligent systems that solve real-world problems using AI.
+ Generative AI Developer | LLM Applications | AI Automation  
+ Passionate about building intelligent systems that solve real-world problems using AI.
 
 ---
 
 ## 👩‍💻 About Me
-- 🔭 Currently working on **Generative AI and LLM powered systems**
-- 🤖 Interested in **AI Agents, RAG Systems, and NLP**
-- 📚 Skilled in **Python, Machine Learning, and Deep Learning**
-- ⚡ Love building **AI tools that automate workflows**
-- 🌱 Currently exploring **LangChain, Vector Databases, and AI Applications**
+ Currently working on **Generative AI and LLM powered systems**
+ Interested in **AI Agents, RAG Systems, and NLP**
+ Skilled in **Python, Machine Learning, and Deep Learning**
+ Love building **AI tools that automate workflows**
+ Currently exploring **LangChain, Vector Databases, and AI Applications**
 
 ---
 
@@ -30,9 +30,9 @@ Git | Docker | FastAPI | Streamlit
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔹 AI Document Chatbot
+###  AI Document Chatbot
 LLM powered chatbot that allows users to query documents using semantic search.
 
 Tech Stack:
@@ -48,7 +48,7 @@ Features:
 
 ---
 
-### 🔹 Resume Analyzer using NLP
+###  Resume Analyzer using NLP
 An AI tool that analyzes resumes and gives improvement suggestions.
 
 Tech Stack:
@@ -56,7 +56,7 @@ Python, NLP, Streamlit
 
 ---
 
-### 🔹 AI Question Answering System
+###  AI Question Answering System
 Built a QA system using embeddings and vector databases.
 
 Tech Stack:
@@ -65,7 +65,7 @@ Python, Transformers, FAISS
 ---
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/laxmi-meghana-moudhgalya-gade-8520731b6/
 
