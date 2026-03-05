@@ -64,16 +64,9 @@ Python, Transformers, FAISS
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/laxmi-meghana-moudhgalya-gade-8520731b6/
 
-Email: your-email@gmail.com
+Email: gademeghanamoudhgalya@gmail.com
